@@ -1,0 +1,317 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 Oct 2021 15:41:08 at https://bellevision.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bellevision.com.br/ -O1 "C:\Meus Sites\cap" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:41:10	Warning: 	Note: due to https://bellevision.com.br remote robots.txt rules, links beginning with these path will be forbidden: /sacada/, /wp-admin/, /wp-includes/, /wp-snapshots/, /wp-content/languages/, /wp-content/plugins/, /wp-content/themes/, /wp-content/upgrade/ (see in the options to disable this)
+15:50:50	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://bellevision.com.br/)
+15:51:54	Error: 	"Not Found" (404) at link https://bellevision.com.br/xmlrpc.php?rsd (from https://bellevision.com.br/)
+15:51:54	Error: 	"Not Found" (404) at link https://bellevision.com.br/xmlrpc.php (from https://bellevision.com.br/)
+16:15:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bellevision.com.br/blog/ (from https://bellevision.com.br/)
+16:15:28	Warning: 	Retry after error -2 (Receive Time Out) at link https://bellevision.com.br/wp-content/uploads/2020/12/01a6c88e88acd2a6c62d570987d461dfaf99deff14.jpg (from https://bellevision.com.br/)
+16:15:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bellevision.com.br/wp-content/uploads/2020/12/01a724cc11cdb378ffe6cda6e397766818f2d34e98.jpg (from https://bellevision.com.br/)
+16:15:29	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01a5466852c73d7f93fba6b268a14101bb980ba74b.jpg (from https://bellevision.com.br/)
+16:15:34	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01a6a792acc84a4a18a8560193132b474655b57265.jpg (from https://bellevision.com.br/)
+16:15:34	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01a087bf33b8ad553a62a3be3d8ca7f2364a3984dd.jpg (from https://bellevision.com.br/)
+16:15:39	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01a001182982cdefb8c7382f3d6c8133650eebe3c7.jpg (from https://bellevision.com.br/)
+16:15:46	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01ab0ac8ed112776f82deeb057fdfbb8b8f5242eee.jpg (from https://bellevision.com.br/)
+16:15:46	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01ab888f4e1e5d104b46bc897c75f1b36493ac8270.jpg (from https://bellevision.com.br/)
+16:15:49	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01af07c93684be416be9ab7993c40d012c885375a7.jpg (from https://bellevision.com.br/)
+16:15:49	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01b5b54fd0224cce2cdb71486ce1d16175a91a5ff7_00002.jpg (from https://bellevision.com.br/)
+16:15:49	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01b6c2b32471606a161c597d337d128c37b8808ecb.jpg (from https://bellevision.com.br/)
+16:15:51	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01ac5a093d3a665312b7f489ea505d9def1efbff96.jpg (from https://bellevision.com.br/)
+16:15:53	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01ac21a85baede785f0fb8114319cae4ff67db8042.jpg (from https://bellevision.com.br/)
+16:15:54	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01ad2b4ac1ebcc29ff4a6c3c6b4ed66a6f0e2048b3.jpg (from https://bellevision.com.br/)
+16:15:58	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01ad931849cf91c641321aebf02c8492e5fc7d205d.jpg (from https://bellevision.com.br/)
+16:16:00	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01af6f7f89df230eac61bef81c1ffc0e8973e3a034.jpg (from https://bellevision.com.br/)
+16:16:03	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01afd946196faa9fa6ac378d31e5f29be4d2e4b30e.jpg (from https://bellevision.com.br/)
+16:16:03	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01b2ee5bbc9421b55518e86bded866557bfd4466dc.jpg (from https://bellevision.com.br/)
+16:16:05	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01b9cc339286c67dc2fd615550a9e0582d4871190b.jpg (from https://bellevision.com.br/)
+16:16:06	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/portfolio (from https://bellevision.com.br/)
+16:16:08	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/sobre-imagem-min.jpg (from https://bellevision.com.br/)
+16:16:09	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/bg-orcamento-min.jpg (from https://bellevision.com.br/)
+16:16:10	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/icone-equipe-qualificada.png (from https://bellevision.com.br/)
+16:16:11	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/icone-custo-beneficio.png (from https://bellevision.com.br/)
+16:16:12	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/icone-consultoria-tecnica.png (from https://bellevision.com.br/)
+16:16:15	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/imagem-min-e1609188184676.jpg (from https://bellevision.com.br/)
+16:16:15	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/cache/autoptimize/js/autoptimize_single_f89263c0c2f24398a1df52eead69f5f8.js?ver=5.3.2 (from https://bellevision.com.br/)
+16:16:16	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/cache/autoptimize/js/autoptimize_single_eff77a0fc18d569a9d9f43cb0790dd2a.js?ver=2.0.0 (from https://bellevision.com.br/)
+16:16:17	Warning: 	Moved Permanently for bellevision.com.br/robots.txt
+16:16:17	Warning: 	Redirected link is identical because of 'URL Hack' option: bellevision.com.br/robots.txt and https://bellevision.com.br/robots.txt
+16:16:17	Warning: 	Warning moved treated for bellevision.com.br/robots.txt (real one is https://bellevision.com.br/robots.txt)
+16:16:17	Warning: 	Retry after error -4 (Connect Error) at link bellevision.com.br/wp-content/themes/bellevision2020/inc/assets/webfonts/fa-brands-400.eot (from https://bellevision.com.br/wp-content/cache/autoptimize/css/autoptimize_5dff83cc26edbde1ae7b20bb6d8e2a95.css)
+16:16:17	Warning: 	Retry after error -4 (Connect Error) at link bellevision.com.br/wp-content/themes/bellevision2020/inc/assets/css/owl.video.play.png (from https://bellevision.com.br/wp-content/cache/autoptimize/css/autoptimize_5dff83cc26edbde1ae7b20bb6d8e2a95.css)
+16:16:17	Warning: 	Retry after error -4 (Connect Error) at link bellevision.com.br/wp-content/themes/bellevision2020/inc/assets/fonts/anton.ttf (from https://bellevision.com.br/wp-content/cache/autoptimize/css/autoptimize_5dff83cc26edbde1ae7b20bb6d8e2a95.css)
+16:16:17	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/page/3/ (from https://bellevision.com.br/page/2/)
+16:16:18	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-json/wp/v2/pages/64 (from https://bellevision.com.br/quem-somos/)
+16:16:21	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/?p=64 (from https://bellevision.com.br/quem-somos/)
+16:16:26	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbellevision.com.br%2Fquem-somos%2F (from https://bellevision.com.br/quem-somos/)
+16:16:27	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbellevision.com.br%2Fquem-somos%2F&format=xml (from https://bellevision.com.br/quem-somos/)
+16:16:27	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/?p=423 (from https://bellevision.com.br/servicos/envidracamento-de-sacadas/)
+16:16:27	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbellevision.com.br%2Fservicos%2Fenvidracamento-de-sacadas%2F (from https://bellevision.com.br/servicos/envidracamento-de-sacadas/)
+16:16:32	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbellevision.com.br%2Fservicos%2Fenvidracamento-de-sacadas%2F&format=xml (from https://bellevision.com.br/servicos/envidracamento-de-sacadas/)
+16:16:33	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/014d9c98e923b02f726c0c3d15d82f6640fc5d0ba0-e1609330637942.jpg (from https://bellevision.com.br/servicos/envidracamento-de-sacadas/)
+16:16:33	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/Screenshot_1.png (from https://bellevision.com.br/servicos/envidracamento-de-sacadas/)
+16:16:33	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/Screenshot_2.png (from https://bellevision.com.br/servicos/envidracamento-de-sacadas/)
+16:16:35	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/Screenshot_3.png (from https://bellevision.com.br/servicos/envidracamento-de-sacadas/)
+16:16:35	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/?p=424 (from https://bellevision.com.br/servicos/divisao-de-ambientes/)
+16:16:37	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbellevision.com.br%2Fservicos%2Fdivisao-de-ambientes%2F (from https://bellevision.com.br/servicos/divisao-de-ambientes/)
+16:16:38	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbellevision.com.br%2Fservicos%2Fdivisao-de-ambientes%2F&format=xml (from https://bellevision.com.br/servicos/divisao-de-ambientes/)
+16:16:40	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01e6e563b7d7379cbe036aeb143b2aeb96f8b6027d.jpg (from https://bellevision.com.br/servicos/divisao-de-ambientes/)
+16:16:41	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/016907922b83b10fa9a0d23f1d660db6a92f4861d6.jpg (from https://bellevision.com.br/servicos/divisao-de-ambientes/)
+16:16:43	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/?p=395 (from https://bellevision.com.br/servicos/fechamento-de-sacadas/)
+16:16:44	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbellevision.com.br%2Fservicos%2Ffechamento-de-sacadas%2F (from https://bellevision.com.br/servicos/fechamento-de-sacadas/)
+16:16:49	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbellevision.com.br%2Fservicos%2Ffechamento-de-sacadas%2F&format=xml (from https://bellevision.com.br/servicos/fechamento-de-sacadas/)
+16:16:49	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01014b488ced7ada4383d56993aca46863e97082fb.jpg (from https://bellevision.com.br/servicos/fechamento-de-sacadas/)
+16:16:50	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-json/wp/v2/pages/74 (from https://bellevision.com.br/portfolio/)
+16:16:50	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/?p=74 (from https://bellevision.com.br/portfolio/)
+16:16:55	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbellevision.com.br%2Fportfolio%2F (from https://bellevision.com.br/portfolio/)
+16:16:56	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbellevision.com.br%2Fportfolio%2F&format=xml (from https://bellevision.com.br/portfolio/)
+16:16:56	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01b20a5d91db070f5e45ca16a06acefda2627250b1.jpg (from https://bellevision.com.br/portfolio/)
+16:16:59	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01b060aa14fae0d5a30b2f9fb6da5996580c768b95.jpg (from https://bellevision.com.br/portfolio/)
+16:17:01	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01b76cd3d1571a498c75fb61f39e597a9495773c2f.jpg (from https://bellevision.com.br/portfolio/)
+16:17:01	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01bb6feb82db9bf02f33c338d72a14db9090e4a099.jpg (from https://bellevision.com.br/portfolio/)
+16:17:01	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01bbcded336743f6003b722c298fae1f25dca975a4.jpg (from https://bellevision.com.br/portfolio/)
+16:17:02	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01bc936fe76ac1143c794644f268fce84b2bb36292.jpg (from https://bellevision.com.br/portfolio/)
+16:17:03	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01c1fdb180d4153592f0d3bca0a1cac22930d7a7b8.jpg (from https://bellevision.com.br/portfolio/)
+16:17:06	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01c3a677a07ef0184093396bdbcf1f9d6270907692.jpg (from https://bellevision.com.br/portfolio/)
+16:17:07	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01c17a2af4643eabaa89b5caf05bab6b0f93ad3e9a.jpg (from https://bellevision.com.br/portfolio/)
+16:17:09	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01c44904d90a3f37c8611f5c607648b47ecb50fbe5.jpg (from https://bellevision.com.br/portfolio/)
+16:17:15	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01c16129423bef3052b5f3dd637b7faa630f4a43f4.jpg (from https://bellevision.com.br/portfolio/)
+16:17:21	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01d0a1bd4a4db522c70e98352a56e77ec5de5f303b.jpg (from https://bellevision.com.br/portfolio/)
+16:17:21	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01d20bc103d8f75c1ef832a46c4aac24e561d4176b.jpg (from https://bellevision.com.br/portfolio/)
+16:17:23	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01d44e94a4bcb165fb6b30f3b7f3f93a6760c467b6.jpg (from https://bellevision.com.br/portfolio/)
+16:17:24	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01d505fa628ef79d02de7f340023c2c2aac28d7ce2.jpg (from https://bellevision.com.br/portfolio/)
+16:17:35	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01d2364580502b622bb7f099a95e8b8fba62e82d90.jpg (from https://bellevision.com.br/portfolio/)
+16:17:37	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01dae1b06baf01e9910b96f637f5027e189992c7aa.jpg (from https://bellevision.com.br/portfolio/)
+16:17:37	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01dbd24a211b9550ea8b9211938da2390a925945dd.jpg (from https://bellevision.com.br/portfolio/)
+16:17:41	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01dd763c066d3b689e5b77574f4076be307c895a59.jpg (from https://bellevision.com.br/portfolio/)
+16:17:43	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01e2b103f42c5b8745c430ef32d5f6c9cd7a4a3e6a.jpg (from https://bellevision.com.br/portfolio/)
+16:17:44	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01e7efbc525d8c46356a5d516e1374382706cc5ff4.jpg (from https://bellevision.com.br/portfolio/)
+16:17:48	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01e2815eef877903d16f35122defc39658bba4353c.jpg (from https://bellevision.com.br/portfolio/)
+16:17:48	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01ea86f83efd5f839b4198bbc2738fbf83a8d0a95f.jpg (from https://bellevision.com.br/portfolio/)
+16:17:50	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01eaf0d44bfcd3fc5c6ff5e496811378b47832918b.jpg (from https://bellevision.com.br/portfolio/)
+16:17:53	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01ee330fff2f08d81411997520912935ce052d05a0.jpg (from https://bellevision.com.br/portfolio/)
+16:17:54	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01ef6b5e59bde0c7cea10f54d171dec07faa856c09.jpg (from https://bellevision.com.br/portfolio/)
+16:18:02	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01efb9ed3e31753d23cccd9efd41e30ec6ed241df6.jpg (from https://bellevision.com.br/portfolio/)
+16:18:03	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01f619f79c5e9849f2cde0dec5bd2cf9b01baa7af9.jpg (from https://bellevision.com.br/portfolio/)
+16:18:04	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01f025785f76ac0fbf8261ef357a76b97d5f2c5c1f.jpg (from https://bellevision.com.br/portfolio/)
+16:18:06	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01f474503b57e4d9f597684be58a116be28c4b523d.jpg (from https://bellevision.com.br/portfolio/)
+16:18:06	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01f33531775042cc0a32f914f5c39cb41f9577eed9.jpg (from https://bellevision.com.br/portfolio/)
+16:18:06	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01fa90b80ee6b964824c91c82ffaafc38c5e668b57.jpg (from https://bellevision.com.br/portfolio/)
+16:18:10	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01fb1a19da8e80de922a4feb08fb4cc7871d1e0e8a.jpg (from https://bellevision.com.br/portfolio/)
+16:18:10	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01fcd57f896a8accb7b0101233495e391214e6d49c.jpg (from https://bellevision.com.br/portfolio/)
+16:18:20	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/01fd6a30b926db2e6a1a5068663e8543bf11c07cdc.jpg (from https://bellevision.com.br/portfolio/)
+16:18:22	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/010dc4378054b8c8cb301d1454345fbbe4ae96b82f.jpg (from https://bellevision.com.br/portfolio/)
+16:18:24	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/010df57d3ef3e90e4ba2972dd5aec34b472adf58db.jpg (from https://bellevision.com.br/portfolio/)
+16:18:25	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/010ea1ddcd40cbb1a6ae1f3122946abce9f4220d8c.jpg (from https://bellevision.com.br/portfolio/)
+16:18:26	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/011a4aecaa929727681f02be501eaaafad65150b3e.jpg (from https://bellevision.com.br/portfolio/)
+16:18:27	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/011c16a964cc8aaec462a09ee63b155ffbfbc39720.jpg (from https://bellevision.com.br/portfolio/)
+16:18:28	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/011ddaa35475706e9adaa9256c59f946e7f9ca06a4.jpg (from https://bellevision.com.br/portfolio/)
+16:18:30	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/012c432485d4c0adb8ca871c7dba564693024d29d9.jpg (from https://bellevision.com.br/portfolio/)
+16:18:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bellevision.com.br/wp-content/uploads/2020/12/010cfb3828953cb015aeb89a2a9350d2fd229293f2.jpg (from https://bellevision.com.br/portfolio/)
+16:18:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bellevision.com.br/wp-content/uploads/2020/12/011e07c77abf6a0b33cb644074727e14823fbf19ab.jpg (from https://bellevision.com.br/portfolio/)
+16:18:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bellevision.com.br/wp-content/uploads/2020/12/011facc425e7cc523b1714f74da47f5adb20e5a12a.jpg (from https://bellevision.com.br/portfolio/)
+16:18:39	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://bellevision.com.br/wp-content/uploads/2020/12/012c0edbcbc938d4d3ff3bc590fc7146c7921e3219.jpg (from https://bellevision.com.br/portfolio/)
+16:18:43	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/012d57e97b7f2c0be7ded727fbac4ad58a5d5e5e4b.jpg (from https://bellevision.com.br/portfolio/)
+16:18:45	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/012f35748b3318c5cf5f70b8ad872a71f86e7421cd.jpg (from https://bellevision.com.br/portfolio/)
+16:18:46	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/013b5cc5bd87c37ec8435f035e3ed3be3f08799feb.jpg (from https://bellevision.com.br/portfolio/)
+16:18:48	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/013b594409c86a25ae01fef11f664d66654ea1b12d.jpg (from https://bellevision.com.br/portfolio/)
+16:18:51	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/013db534a66c20f61a8374534731fe7c0d003c8038.jpg (from https://bellevision.com.br/portfolio/)
+16:18:54	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/013dcf72352b677ed2dc0d8a7100aaea237ac5ed82.jpg (from https://bellevision.com.br/portfolio/)
+16:18:57	Warning: 	Retry after error -4 (Connect Error) at link https://bellevision.com.br/wp-content/uploads/2020/12/013e5a5128c5c08cb7bccfddfba3800f2cd5ed468c.jpg (from https://bellevision.com.br/portfolio/)
+16:18:58	Warning: 	Retry after error -4 (Incorrect length (679824 Bytes, 684123 expected)) at link https://bellevision.com.br/wp-content/uploads/2020/12/0194d9c368461993d9187b45b00dbfce54ff06eda9.jpg (from https://bellevision.com.br/portfolio/)
+16:19:03	Warning: 	Retry after error -4 (Incorrect length (807824 Bytes, 1055685 expected)) at link https://bellevision.com.br/wp-content/uploads/2020/12/0196d9453c3e9e15961226ba3f9ed7cac03936c2fb.jpg (from https://bellevision.com.br/portfolio/)
+16:19:04	Warning: 	Retry after error -4 (Incorrect length (479825 Bytes, 978196 expected)) at link https://bellevision.com.br/wp-content/uploads/2020/12/01374e7034f5284da3e3b040e93defc43deeabedf5.jpg (from https://bellevision.com.br/portfolio/)
+16:19:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bellevision.com.br/wp-content/uploads/2020/12/01691a79296fc913ce3a5ffdd348de2520da7da0dc_00001.jpg (from https://bellevision.com.br/portfolio/)
+16:19:08	Warning: 	Moved Permanently for https://bellevision.com.br/portfolio
+16:19:08	Warning: 	File has moved from https://bellevision.com.br/portfolio to https://bellevision.com.br/portfolio/
+16:19:08	Error: 	Unable to save file C:/Meus Sites/cap/bellevision.com.br/portfolio: Permission denied
+16:19:08	Warning: 	Moved Permanently for bellevision.com.br/wp-content/themes/bellevision2020/inc/assets/css/owl.video.play.png
+16:19:08	Warning: 	File has moved from bellevision.com.br/wp-content/themes/bellevision2020/inc/assets/css/owl.video.play.png to https://bellevision.com.br/404.shtml
+16:19:11	Warning: 	Moved Permanently for https://bellevision.com.br/?p=64
+16:19:11	Warning: 	File has moved from https://bellevision.com.br/?p=64 to https://bellevision.com.br/quem-somos/
+16:19:11	Warning: 	Moved Permanently for https://bellevision.com.br/?p=423
+16:19:11	Warning: 	File has moved from https://bellevision.com.br/?p=423 to https://bellevision.com.br/servicos/envidracamento-de-sacadas/
+16:19:12	Warning: 	Moved Permanently for https://bellevision.com.br/?p=424
+16:19:12	Warning: 	File has moved from https://bellevision.com.br/?p=424 to https://bellevision.com.br/servicos/divisao-de-ambientes/
+16:19:12	Warning: 	Moved Permanently for https://bellevision.com.br/?p=395
+16:19:12	Warning: 	File has moved from https://bellevision.com.br/?p=395 to https://bellevision.com.br/servicos/fechamento-de-sacadas/
+16:19:13	Warning: 	Moved Permanently for https://bellevision.com.br/?p=74
+16:19:13	Warning: 	File has moved from https://bellevision.com.br/?p=74 to https://bellevision.com.br/portfolio/
+16:19:13	Warning: 	Moved Permanently for https://bellevision.com.br/?p=126
+16:19:13	Warning: 	File has moved from https://bellevision.com.br/?p=126 to https://bellevision.com.br/blog/
+16:19:35	Error: 	"Not Found" (404) at link https://bellevision.com.br/404.shtml (from bellevision.com.br/wp-content/themes/bellevision2020/inc/assets/css/owl.video.play.png)
+16:19:35	Warning: 	Moved Permanently for https://bellevision.com.br/?p=606
+16:19:35	Warning: 	File has moved from https://bellevision.com.br/?p=606 to https://bellevision.com.br/fechamento-de-area-gourmet-em-sao-jose-dos-campos/
+16:19:57	Warning: 	Moved Permanently for https://bellevision.com.br/?p=601
+16:19:57	Warning: 	File has moved from https://bellevision.com.br/?p=601 to https://bellevision.com.br/vidro-retratil-para-churrasqueira-em-jundiai/
+16:20:01	Warning: 	Moved Permanently for https://bellevision.com.br/?p=598
+16:20:01	Warning: 	File has moved from https://bellevision.com.br/?p=598 to https://bellevision.com.br/divisoria-de-vidro-retratil-em-sorocaba/
+16:20:01	Warning: 	Moved Permanently for https://bellevision.com.br/?p=580
+16:20:01	Warning: 	File has moved from https://bellevision.com.br/?p=580 to https://bellevision.com.br/cortina-de-vidro-em-bertioga/
+16:20:06	Warning: 	Moved Permanently for https://bellevision.com.br/?p=544
+16:20:06	Warning: 	File has moved from https://bellevision.com.br/?p=544 to https://bellevision.com.br/envidracamento-de-sacadas-retratil-em-campinas/
+16:20:10	Warning: 	Moved Permanently for https://bellevision.com.br/?p=537
+16:20:10	Warning: 	File has moved from https://bellevision.com.br/?p=537 to https://bellevision.com.br/envidracamento-de-sacadas-no-tatuape/
+16:20:12	Warning: 	Moved Permanently for https://bellevision.com.br/?p=530
+16:20:12	Warning: 	File has moved from https://bellevision.com.br/?p=530 to https://bellevision.com.br/envidracamento-de-sacadas-em-maua/
+16:20:12	Warning: 	Moved Permanently for https://bellevision.com.br/?p=526
+16:20:12	Warning: 	File has moved from https://bellevision.com.br/?p=526 to https://bellevision.com.br/fechamento-de-sacadas-na-mooca-sao-paulo/
+16:20:15	Warning: 	Moved Permanently for https://bellevision.com.br/?p=522
+16:20:15	Warning: 	File has moved from https://bellevision.com.br/?p=522 to https://bellevision.com.br/envidracamento-de-sacadas-na-vila-mariana/
+16:20:15	Warning: 	Moved Permanently for https://bellevision.com.br/?p=518
+16:20:15	Warning: 	File has moved from https://bellevision.com.br/?p=518 to https://bellevision.com.br/envidracamento-de-sacada-em-perdizes/
+16:20:19	Warning: 	Moved Permanently for https://bellevision.com.br/blog/page/1/
+16:20:19	Warning: 	File has moved from https://bellevision.com.br/blog/page/1/ to https://bellevision.com.br/blog/
+16:20:29	Warning: 	Moved Permanently for https://bellevision.com.br/?p=453
+16:20:29	Warning: 	File has moved from https://bellevision.com.br/?p=453 to https://bellevision.com.br/5-dicas-para-montar-uma-area-gourmet-moderna/
+16:20:29	Warning: 	Moved Permanently for https://bellevision.com.br/envidracamento-de-sacadas/
+16:20:29	Warning: 	File has moved from https://bellevision.com.br/envidracamento-de-sacadas/ to https://bellevision.com.br/servicos/envidracamento-de-sacadas/
+16:20:30	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/area-gourmet/ (from https://bellevision.com.br/5-dicas-para-montar-uma-area-gourmet-moderna/)
+16:20:30	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/area-gourmet-moderna/ (from https://bellevision.com.br/5-dicas-para-montar-uma-area-gourmet-moderna/)
+16:20:30	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/empresa-de-envidracamento-de-sacadas/ (from https://bellevision.com.br/5-dicas-para-montar-uma-area-gourmet-moderna/)
+16:20:30	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/envidracamento/ (from https://bellevision.com.br/5-dicas-para-montar-uma-area-gourmet-moderna/)
+16:20:30	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/envidracamento-de-sacadas/ (from https://bellevision.com.br/5-dicas-para-montar-uma-area-gourmet-moderna/)
+16:20:30	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/envidracar-sacadas/ (from https://bellevision.com.br/5-dicas-para-montar-uma-area-gourmet-moderna/)
+16:20:30	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/sacada-de-vidro/ (from https://bellevision.com.br/5-dicas-para-montar-uma-area-gourmet-moderna/)
+16:20:30	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/sacada-fechada-com-vidro/ (from https://bellevision.com.br/5-dicas-para-montar-uma-area-gourmet-moderna/)
+16:20:30	Warning: 	Moved Permanently for https://bellevision.com.br/?p=455
+16:20:30	Warning: 	File has moved from https://bellevision.com.br/?p=455 to https://bellevision.com.br/voce-sabia-que-da-para-economizar-energia-com-envidracamento-de-sacadas/
+16:20:31	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/envidracamento-de-sacada/ (from https://bellevision.com.br/voce-sabia-que-da-para-economizar-energia-com-envidracamento-de-sacadas/)
+16:20:31	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/fechamento-da-sacada/ (from https://bellevision.com.br/voce-sabia-que-da-para-economizar-energia-com-envidracamento-de-sacadas/)
+16:20:31	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/fechar-sacada-com-vidro/ (from https://bellevision.com.br/voce-sabia-que-da-para-economizar-energia-com-envidracamento-de-sacadas/)
+16:20:31	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/fechar-sacadas-com-vidro/ (from https://bellevision.com.br/voce-sabia-que-da-para-economizar-energia-com-envidracamento-de-sacadas/)
+16:20:31	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/vidros-na-sacada/ (from https://bellevision.com.br/voce-sabia-que-da-para-economizar-energia-com-envidracamento-de-sacadas/)
+16:20:32	Warning: 	Moved Permanently for https://bellevision.com.br/?p=502
+16:20:32	Warning: 	File has moved from https://bellevision.com.br/?p=502 to https://bellevision.com.br/divisao-de-ambientes-com-vidro-no-abc/
+16:20:32	Warning: 	Moved Permanently for https://bellevision.com.br/?p=451
+16:20:32	Warning: 	File has moved from https://bellevision.com.br/?p=451 to https://bellevision.com.br/onde-usar-divisao-ambientes-vidro/
+16:20:32	Warning: 	Moved Permanently for https://bellevision.com.br/divisao-de-ambientes/
+16:20:32	Warning: 	File has moved from https://bellevision.com.br/divisao-de-ambientes/ to https://bellevision.com.br/servicos/divisao-de-ambientes/
+16:20:32	Warning: 	Moved Permanently for https://bellevision.com.br/?p=448
+16:20:32	Warning: 	File has moved from https://bellevision.com.br/?p=448 to https://bellevision.com.br/vantagens-divisao-ambientes-vidro/
+16:20:33	Warning: 	Moved Permanently for https://bellevision.com.br/?p=443
+16:20:33	Warning: 	File has moved from https://bellevision.com.br/?p=443 to https://bellevision.com.br/portas-e-divisoes-de-vidro-sao-opcoes-para-delimitar-ambientes/
+16:20:36	Warning: 	Moved Permanently for https://bellevision.com.br/?p=441
+16:20:36	Warning: 	File has moved from https://bellevision.com.br/?p=441 to https://bellevision.com.br/motivos-para-fazer-divisao-de-ambientes-com-vidro/
+16:20:36	Warning: 	Moved Permanently for https://bellevision.com.br/?p=435
+16:20:36	Warning: 	File has moved from https://bellevision.com.br/?p=435 to https://bellevision.com.br/onde-usar-divisorias-de-vidro/
+16:20:36	Error: 	"Not Found" (404) at link https://bellevision.com.br/a-belle-vision/ (from https://bellevision.com.br/onde-usar-divisorias-de-vidro/)
+16:20:36	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/como-dividir-ambientes/ (from https://bellevision.com.br/onde-usar-divisorias-de-vidro/)
+16:20:36	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/divisao-de-ambientes/ (from https://bellevision.com.br/onde-usar-divisorias-de-vidro/)
+16:20:36	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/divisao-de-ambientes-com-vidro/ (from https://bellevision.com.br/onde-usar-divisorias-de-vidro/)
+16:20:36	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/divisorias-de-vidro-para-cozinha/ (from https://bellevision.com.br/onde-usar-divisorias-de-vidro/)
+16:20:36	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/divisorias-de-vidro-para-escritorio/ (from https://bellevision.com.br/onde-usar-divisorias-de-vidro/)
+16:20:36	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/divisorias-em-vidro/ (from https://bellevision.com.br/onde-usar-divisorias-de-vidro/)
+16:20:37	Warning: 	Moved Permanently for https://bellevision.com.br/?p=434
+16:20:37	Warning: 	File has moved from https://bellevision.com.br/?p=434 to https://bellevision.com.br/como-usar-vidro-na-decoracao-de-sua-casa/
+16:20:39	Warning: 	Moved Permanently for https://bellevision.com.br/category/envidracamento-de-sacadas/page/1/
+16:20:39	Warning: 	File has moved from https://bellevision.com.br/category/envidracamento-de-sacadas/page/1/ to https://bellevision.com.br/category/envidracamento-de-sacadas/
+16:20:40	Warning: 	Moved Permanently for https://bellevision.com.br/?p=515
+16:20:40	Warning: 	File has moved from https://bellevision.com.br/?p=515 to https://bellevision.com.br/envidracamento-de-sacadas-em-santo-andre/
+16:20:41	Warning: 	Moved Permanently for https://bellevision.com.br/?p=509
+16:20:41	Warning: 	File has moved from https://bellevision.com.br/?p=509 to https://bellevision.com.br/envidracamento-de-sacada-em-moema/
+16:20:41	Warning: 	Moved Permanently for https://bellevision.com.br/?p=507
+16:20:41	Warning: 	File has moved from https://bellevision.com.br/?p=507 to https://bellevision.com.br/fechamento-de-sacadas-em-sao-bernardo-do-campo/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=458
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=458 to https://bellevision.com.br/3-motivos-para-criar-ambientes-integrados-com-vidros-na-sua-casa/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=445
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=445 to https://bellevision.com.br/como-limpar-sacadas-de-vidro/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/category/blog/page/1/
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/category/blog/page/1/ to https://bellevision.com.br/category/blog/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=481
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=481 to https://bellevision.com.br/e-preciso-algum-tipo-de-autorizacao-para-fazer-fechamento-de-sacadas-em-condominios/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=464
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=464 to https://bellevision.com.br/envidracamento-de-sacada-solucao-para-todas-as-estacoes-do-ano/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=456
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=456 to https://bellevision.com.br/manutencao-preventiva-no-envidracamento-de-sacadas-entenda-a-importancia/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=470
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=470 to https://bellevision.com.br/beneficios-de-uma-sacada-de-vidro-no-verao-conforto-termico-e-fundamental/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=477
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=477 to https://bellevision.com.br/envidracamento-de-varanda-e-rede-de-protecao-se-complementam/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=110
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=110 to https://bellevision.com.br/home-office-faca-da-sacada-o-seu-escritorio/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=460
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=460 to https://bellevision.com.br/valorize-seu-apartamento-com-o-envidracamento-da-sacada/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=440
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=440 to https://bellevision.com.br/vidro-temperado-o-vidro-do-envidracamento-de-varanda/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=430
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=430 to https://bellevision.com.br/vantagens-do-fechamento-de-sacadas/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=454
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=454 to https://bellevision.com.br/como-fazer-uma-sacada-integrada-com-vidros-conheca-essa-tendencia/
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/espacos-integrados/ (from https://bellevision.com.br/como-fazer-uma-sacada-integrada-com-vidros-conheca-essa-tendencia/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/sacadas-pequenas/ (from https://bellevision.com.br/como-fazer-uma-sacada-integrada-com-vidros-conheca-essa-tendencia/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/varandas-integradas/ (from https://bellevision.com.br/como-fazer-uma-sacada-integrada-com-vidros-conheca-essa-tendencia/)
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=446
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=446 to https://bellevision.com.br/entenda-como-reduzir-os-ruidos-externos-do-seu-lar/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=500
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=500 to https://bellevision.com.br/envidracamento-de-sacada-em-sao-caetano-do-sul/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=490
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=490 to https://bellevision.com.br/envidracamento-de-sacadas-residenciais-no-abc/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=492
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=492 to https://bellevision.com.br/envidracamento-de-sacadas-para-escritorios-no-abc/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=459
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=459 to https://bellevision.com.br/folhas-de-vidro-emperrando-entenda-como-resolver-com-cuidado/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=457
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=457 to https://bellevision.com.br/barulho-de-vento-entre-os-vidros-veja-como-solucionar/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=452
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=452 to https://bellevision.com.br/como-aproveitar-sacadas-pequenas/
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/envidracamento-da-sacada/ (from https://bellevision.com.br/como-aproveitar-sacadas-pequenas/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/envidracar-a-sacada/ (from https://bellevision.com.br/como-aproveitar-sacadas-pequenas/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/fechamento-de-varanda-com-vidros/ (from https://bellevision.com.br/como-aproveitar-sacadas-pequenas/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/sacada-pequena/ (from https://bellevision.com.br/como-aproveitar-sacadas-pequenas/)
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=450
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=450 to https://bellevision.com.br/envidracamento-sacadas-contra-variacao-clime/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=432
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=432 to https://bellevision.com.br/envidracar-sacadas-pode-dar-problema/
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/empresa-de-envidracamento-de-sacada/ (from https://bellevision.com.br/envidracar-sacadas-pode-dar-problema/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/preco-de-envidracamento-de-sacadas/ (from https://bellevision.com.br/envidracar-sacadas-pode-dar-problema/)
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=431
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=431 to https://bellevision.com.br/5-vantagens-do-envidracamento-de-sacadas/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=429
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=429 to https://bellevision.com.br/servico-de-envidracamento-de-sacadas/
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/belle-vision/ (from https://bellevision.com.br/servico-de-envidracamento-de-sacadas/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/empresa-de-envidrcamentos/ (from https://bellevision.com.br/servico-de-envidracamento-de-sacadas/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/servicos-envidracamento-de-sacadas/ (from https://bellevision.com.br/servico-de-envidracamento-de-sacadas/)
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=449
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=449 to https://bellevision.com.br/envidracamento-sacadas-arcondicionado-possivel/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=447
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=447 to https://bellevision.com.br/conheca-as-principais-regras-para-o-envidracamento-de-sacadas/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=442
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=442 to https://bellevision.com.br/importancia-da-manutencao-preventiva-em-envidracamento-de-sacada/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=444
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=444 to https://bellevision.com.br/envidracamento-de-sacadas-para-sobrados/
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/fechamento-de-varanda/ (from https://bellevision.com.br/envidracamento-de-sacadas-para-sobrados/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/fechamento-de-varanda-com-vidro/ (from https://bellevision.com.br/envidracamento-de-sacadas-para-sobrados/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/preco-envidracamento-de-sacadas/ (from https://bellevision.com.br/envidracamento-de-sacadas-para-sobrados/)
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=436
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=436 to https://bellevision.com.br/como-proporcionar-bem-estar-em-sua-sacada/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/blog/vantagens-do-fechamento-de-sacadas/
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/blog/vantagens-do-fechamento-de-sacadas/ to https://bellevision.com.br/vantagens-do-fechamento-de-sacadas/
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/envidracamento-de-sacadas-preco/ (from https://bellevision.com.br/como-proporcionar-bem-estar-em-sua-sacada/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/fechamento-de-sacada/ (from https://bellevision.com.br/como-proporcionar-bem-estar-em-sua-sacada/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/fechamento-de-sacada-com-vidro/ (from https://bellevision.com.br/como-proporcionar-bem-estar-em-sua-sacada/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/sacada-fechada/ (from https://bellevision.com.br/como-proporcionar-bem-estar-em-sua-sacada/)
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=433
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=433 to https://bellevision.com.br/vidro-temperado-ou-laminado-para-envidracamento-de-sacadas/
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/composicao-de-vidro/ (from https://bellevision.com.br/vidro-temperado-ou-laminado-para-envidracamento-de-sacadas/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/produtos-de-vidro/ (from https://bellevision.com.br/vidro-temperado-ou-laminado-para-envidracamento-de-sacadas/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/tipo-de-vidro/ (from https://bellevision.com.br/vidro-temperado-ou-laminado-para-envidracamento-de-sacadas/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/tudo-sobre-vidro/ (from https://bellevision.com.br/vidro-temperado-ou-laminado-para-envidracamento-de-sacadas/)
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=439
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=439 to https://bellevision.com.br/7-dicas-para-quem-deseja-fazer-envidracamento-de-sacada/
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=438
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=438 to https://bellevision.com.br/escolha-o-vidro-certo-para-sua-sacada/
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/fechamento-de-sacadas/ (from https://bellevision.com.br/escolha-o-vidro-certo-para-sua-sacada/)
+16:20:45	Warning: 	Moved Permanently for https://bellevision.com.br/?p=437
+16:20:45	Warning: 	File has moved from https://bellevision.com.br/?p=437 to https://bellevision.com.br/por-que-os-vidros-temperados-quebram-sozinhos/
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/envidracamento-de-ambiente/ (from https://bellevision.com.br/por-que-os-vidros-temperados-quebram-sozinhos/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/envidracamento-de-sacada-de-vidro/ (from https://bellevision.com.br/por-que-os-vidros-temperados-quebram-sozinhos/)
+16:20:45	Error: 	"Not Found" (404) at link https://bellevision.com.br/tag/fechamento-de-sacada-de-vidro/ (from https://bellevision.com.br/por-que-os-vidros-temperados-quebram-sozinhos/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 minutes 37 seconds : 824 links scanned, 589 files written (148215219 bytes overall) [147271539 bytes received at 61956 bytes/sec], 3182906 bytes transferred using HTTP compression in 84 files, ratio 25%, 3.2 requests per connection
+(52 errors, 254 warnings, 0 messages)
